@@ -1,0 +1,14 @@
+@import url('https://fonts.googleapis.com/css?family=PT+Sans+Narrow');
+
+.reveal h1,
+.reveal h2,
+.reveal h3,
+.reveal h4,
+.reveal h5,
+.reveal h6
+{
+    font-family: 'PT Sans Narrow', sans-serif;
+    background-color: rgba(0, 0, 0, 0.1);
+    padding: .2em 0;
+    margin-bottom: .5em;
+}
