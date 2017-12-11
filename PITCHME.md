@@ -7,11 +7,11 @@ DOM и другие
 http://learn.javascript.ru/browser-environment
 
 ---
-## git и редактор VSCode
+## `git` и редактор VSCode
 https://code.visualstudio.com/Docs/editor/versioncontrol
 
 ---
-## Для MAC OS: git без xcode
+## Для MAC OS: `git` без `xcode`
 
 в терминале выполнить
 
@@ -20,13 +20,13 @@ https://code.visualstudio.com/Docs/editor/versioncontrol
 http://blog.bobbyallen.me/2014/03/07/how-to-install-git-without-having-to-install-xcode-on-macosx/
 
 ---
-## HTML как дерево
+## `HTML` как дерево
 http://learn.javascript.ru/dom-nodes
 
 ---
-## HTML как дерево
+## `HTML` как дерево
 `document.createElement`
 
 ---
-## Треугольники на CSS
+## Треугольники на `CSS`
 https://html5book.ru/css-figury/
