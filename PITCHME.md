@@ -17,7 +17,7 @@
 - `git config --global user.name YOUR_GITHUB_NAME`
 - `git config --global user.email YOUR_EMAIL`
 
-логин и почта, с которому регались на гитхабе
+логин и почта, с которыми регались на гитхабе
 
 ---
 ## `DOM` из консоли
