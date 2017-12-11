@@ -2,21 +2,31 @@
 11 декабря 2017
 
 ---
-## Вспоминаем CSS
+## Вспоминаем `CSS`
 на примере https://html5book.ru/css3-gradient/
 
 ---
-## Вспоминаем JS
+## Вспоминаем `JS`
 Вывести сообщения из списка с помощью `console.*`
 
 ---
-## DOM из консоли
+## Донастройка `git`
+(при необходимости)
+
+в Терминале, встроенном в VSCode:
+- `git config --global user.name YOUR_GITHUB_NAME`
+- `git config --global user.email YOUR_EMAIL`
+
+логин и почта, с которому регались на гитхабе
+
+---
+## `DOM` из консоли
 минимально: `$0`
 
 http://learn.javascript.ru/dom-console
 
 ---
-## Соседи в DOMе
+## Соседи в `DOM`е
 `parent*`, `child*`, `*Sibling`
 
 http://learn.javascript.ru/traversing-dom
