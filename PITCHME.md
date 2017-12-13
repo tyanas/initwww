@@ -8,13 +8,13 @@ https://vasilika.ru/mcs/online/day10.html?full#2
 ---
 ## +1 технология: `WebGL`
 Для чего? 3D что угодно:
- - игры, инографика
+ - игры, инфографика
  - крутая навигация
  - 3D-редакторы
  
 ---
 ## `WebGL`: минусы
-- на данный момент не все браузеры поддерживают
+- не все браузеры поддерживают
   - по всем браузерам https://caniuse.com/#search=webgl
   - по вашему браузеру https://get.webgl.org/
 - производительность
@@ -39,13 +39,13 @@ https://threejs.org/
 ---
 ## +1 тренд: Parallax
 фоновые картинки движутся с разной скоростью при прокрутке
-- просто https://www.w3schools.com/howto/howto_css_parallax.asp
+- просто https://w3schools.com/howto/howto_css_parallax.asp
 - сложно http://matthew.wagerfield.com/parallax/
 
 ---
 ## +100500 трендов
 Смотрите и другие HowTo
-https://www.w3schools.com/howto/default.asp
+https://w3schools.com/howto/default.asp
 
 ---
 ## 11 Phases of a ... Career
@@ -56,6 +56,7 @@ https://code.tutsplus.com/articles/the-11-phases-of-a-web-developers-career-as-i
 ## Простая галерея с картинками
 - было https://codepen.io/leemark/pen/DLgbr?editors=1000
 - стало https://codepen.io/anon/pen/jYEZVg?editors=1010
+
 разломали с целью понять, как работает.
 
 ---
@@ -68,7 +69,7 @@ https://code.tutsplus.com/articles/the-11-phases-of-a-web-developers-career-as-i
 ## Программирование – это средство
 (всего лишь средство, инструмент)
 
-Пример подчинения технологий - цели https://habrahabr.ru/company/philtech/blog/344462/.com
+Пример подчинения технологий - цели https://habrahabr.ru/company/philtech/blog/344462/
 
 ---
 ## Ключи к успеху
